@@ -58,6 +58,4 @@ htmlcov/
 # Graph exports
 data/knowledge_graph.json
 
-# private data-specific files (customer-specific, not for general use)
-examples/private data/
 
